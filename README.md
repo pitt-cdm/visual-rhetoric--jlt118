@@ -1,3 +1,6 @@
+https://pitt.app.box.com/folder/66877428353
+
+
 # Project 2: Visual Rhetorical Collage
 
 Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
@@ -29,4 +32,4 @@ If you are using Box, please nevertheless share a link to your Box folder promin
 | Sun Feb 24, at 11:59pm | Visual Rhetoric Final Draft | Include the same components as in the earlier draft, but updated. |
 | Tues Feb 26 | Visual Rhetoric Reflection | Give a sense of the work you put into your Visual Rhetoric project and whether it accomplishes what you wanted it to. Turn in: <ul><li>at least 500 words describing the work you did</li><li>at least two screenshots showing your work in progress</li><li>at least one photograph of a notecard with feedback that you responded to in revising (and please say how)</li><li>your own assessment of how you met the baseline criteria for the class, as well as aspirational criteria as appropriate </li></ul> <strong>Post your reflections to the course site's <a href="https://github.com/pitt-cdm/miller2019spring/issues/9">Issue queue</a></strong>, to make it easier to embed images. (If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!) |
 
-https://pitt.app.box.com/folder/66877428353
+
